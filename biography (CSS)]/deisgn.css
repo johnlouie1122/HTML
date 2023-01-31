@@ -1,0 +1,32 @@
+
+h1 {
+    background-color:blue;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color: bisque;
+    text-decoration: none;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+}
+
+.background {
+    column-count: 2;
+}
+
+.hobbies {
+    column-count: 2;
+}
+
+footer {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
